@@ -44,12 +44,12 @@ Abaixo temos os requisitos funcionais solicitados pela equipe de négócio:
 * [ ]  O sistema deverá conter a listagem dos competidores com o *tempo médio* gasto nas corridas.
 * [ ]  O sistema deverá conter a listagem dos competidores que *não* fizeram nenhuma corrida.
 
-Abaixo temos os requisitos não funcionais que decidimos em nossa equipe de negócio:
+Abaixo temos os requisitos não funcionais que decidimos em nossa equipe de tecnologia:
 
 * [ ] O back-end deverá ser via `REST API` em `.net core` utilizando o projeto `AdventureWorks` já pré criado.
 * [ ] O front-end deverá ser em `MVC`, `React` ou `AngularJS`.
 * [ ] O banco de dados deverá ser em `Sql Server` ou `MySql`.
-* 
+
 
 ---
 
