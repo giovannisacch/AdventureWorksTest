@@ -33,7 +33,7 @@ Após executar o projeto `AdventureWorks.Api`, certificar que ele está rodando 
 O `AdventureWorks` é um sistema de controle de competições de corrida. Ele armazena o registro de competidores e o histórico de corridas (em cada pista) que cada competidor participou.
 Abaixo, você pode visualizar o MER das tabelas para o banco de dados.
 
-`MER_AQUI`
+- png.png ![](MER-Basic-Test-IOB.png)
 
 Abaixo temos os requisitos funcionais solicitados pela equipe de négócio:
 
