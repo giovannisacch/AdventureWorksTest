@@ -49,3 +49,8 @@ Abaixo temos os requisitos não funcionais que decidimos em nossa equipe de neg�
 * [ ] O back-end deverá ser via `REST API` em `.net core` utilizando o projeto `AdventureWorks` já pré criado.
 * [ ] O front-end deverá ser em `MVC`, `React` ou `AngularJS`.
 * [ ] O banco de dados deverá ser em `Sql Server` ou `MySql`.
+* 
+
+---
+
+Lhe desejamos um bom projeto! :D
