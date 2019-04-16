@@ -10,7 +10,7 @@ Todo o backend da aplicação deverá ser a `API REST AdventureWorks`.
 
 **Para o desenvolvimento, siga os passos a seguir.**
 
-*   Depois de ralizar o clone do projeto em seu local de trabalho, crie uma branch chamada `branch_<seu_nome>`. Todo o desenvolvimento deverá ser feito nesta branch. O `commit` e o `push` deverá ser realizado nesta branch.
+*   Depois de realizar o clone do projeto em seu local de trabalho, crie uma branch chamada `branch_<seu_nome>`. Todo o desenvolvimento deverá ser feito nesta branch. O `commit` e o `push` deverá ser realizado nesta branch.
 *   Os scripts de banco de dados deverão estar também no projeto em uma pasta chamada `sql_scripts`.
 *   Os `commits` deverão ser realizados nesta branch criada.
 *   Para efetivar sua participação neste projeto o `push` deverá ser realizado e não é necessário realizar o `merge` com a branch `master`.
