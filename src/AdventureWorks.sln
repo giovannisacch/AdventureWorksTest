@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventureWorks.Api", "Adven
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Repository", "Repository", "{12EABF6F-697F-4DC1-BD79-91E91600619E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdventureWorks.Repository", "AdventureWorks.Repository\AdventureWorks.Repository.csproj", "{9A0F0A03-6662-41B8-95AF-D587888C535C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AdventureWorks.Repository", "AdventureWorks.Repository\AdventureWorks.Repository.csproj", "{9A0F0A03-6662-41B8-95AF-D587888C535C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

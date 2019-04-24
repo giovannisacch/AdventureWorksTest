@@ -28,7 +28,7 @@ namespace AdventureWorks.Repository
 
         public IEnumerable<T> FindAll()
         {
-            return ctx.Set<T>();
+            return ctx.Set<T>().AsNoTracking();
         }
 
         public T FindById(int id)
@@ -39,6 +39,7 @@ namespace AdventureWorks.Repository
         public void Update(T entity)
         {
             ctx.Set<T>().Update(entity);
+            ctx.SaveChanges();
         }
     }
 }

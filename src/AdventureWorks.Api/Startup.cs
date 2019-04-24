@@ -6,6 +6,7 @@ using AdventureWorks.Repository;
 using AdventureWorks.Repository.Context;
 using AdventureWorks.Repository.Interfaces;
 using AdventureWorks.Repository.Repositories;
+using AutoMapper;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -31,6 +32,7 @@ namespace AdventureWorks.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddAutoMapper();
             services.AddDbContext<AdventureContext>(x =>
                 x.UseSqlServer(Configuration.GetConnectionString("AdventureWorks")));
 
